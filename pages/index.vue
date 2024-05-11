@@ -27,7 +27,7 @@
 
                 
 
-                    <div class="flex flex-row py-16 justify-center sm:justify-end gap-4 sm:py-0 lg:py-28 sm:mr-1 lg:mr-10">
+                    <div class="flex  flex-row py-16 cursor-pointer justify-center sm:justify-end gap-4 sm:py-0 lg:py-28 sm:mr-1 lg:mr-10">
                         <div class="rounded-full sm:h-14 sm:w-14 h-10 w-10  text-center sm:py-3 py-1 border-white border-2">
                             <Icon class="text-white sm:text-3xl sm:font-bold  text-xl" name="fa6-brands:facebook-f"></Icon>
                         </div>
