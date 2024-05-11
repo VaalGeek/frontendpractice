@@ -21,28 +21,35 @@
                         connections with your users as you engage in genuine discussion.
                     </p>
                     <div class="flex flex-row justify-center  mt-6">
-                        <button class=" text-white bg-[#009CFA] rounded-full px-12 py-1 text-center text-2xl font-bold" href="#">Join Us</button>
+                        <button class=" text-white bg-[#009CFA] rounded-full px-12 py-1 text-center text-2xl font-bold"
+                            href="#">Join Us</button>
                     </div>
+
+                
+
+                    <div class="flex flex-row py-16 justify-center sm:justify-end gap-4 sm:py-0 lg:py-28 sm:mr-1 lg:mr-10">
+                        <div class="rounded-full sm:h-14 sm:w-14 h-10 w-10  text-center sm:py-3 py-1 border-white border-2">
+                            <Icon class="text-white sm:text-3xl sm:font-bold  text-xl" name="fa6-brands:facebook-f"></Icon>
+                        </div>
+                        <div class="rounded-full h-10 w-10 sm:h-14 sm:w-14 text-center sm:py-3 py-1 border-white border-2">
+                            <Icon class="text-white text-xl sm:text-3xl sm:font-bold"  name="fa6-brands:x-twitter"></Icon>
+                        </div>
+                        <div class="rounded-full h-10 w-10 sm:h-14 sm:w-14 text-center sm:py-3 py-1 border-white border-2">
+                            <Icon class="text-white text-xl sm:text-3xl sm:font-bold" name="fa6-brands:instagram"></Icon>
+                        </div>
+                    </div>
+
+
                 </div>
+
 
             </div>
 
 
 
-            <div class="flex justify-center lg:justify-end">
-                <div class="flex flex-row gap-2 mb-3 absolute bottom-0  sm:px-[270px]">
 
-                    <div class="rounded-full h-10 w-10 flex items-center justify-center border-white border-2">
-                        <Icon class="text-white text-xl" name="fa6-brands:facebook-f"></Icon>
-                    </div>
-                    <div class="rounded-full h-10 w-10 flex items-center justify-center border-white border-2">
-                        <Icon class="text-white text-xl" name="fa6-brands:x-twitter"></Icon>
-                    </div>
-                    <div class="rounded-full h-10 w-10 flex items-center justify-center border-white border-2">
-                        <Icon class="text-white text-xl" name="fa6-brands:instagram"></Icon>
-                    </div>
-                </div>
-            </div>
+           
+
 
 
 
