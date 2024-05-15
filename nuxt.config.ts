@@ -4,8 +4,15 @@ export default defineNuxtConfig({
   modules: [
     'nuxt-primevue',
     '@nuxtjs/tailwindcss',
-    'nuxt-icon'
+    'nuxt-icon',
+    '@nuxtjs/google-fonts'
   ],
+  googleFonts:{
+    families: {
+      'Young+Serif': [400],
+      'Outfit': [160],
+  },
+  },
   primevue: {
     options: {
       unstyled: true
