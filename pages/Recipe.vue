@@ -1,7 +1,7 @@
 <template>
-    <div class="min-h-screen sm:flex sm:justify-center   sm:bg-[#F3E6D8]">
+    <div class="min-h-screen sm:flex sm:justify-center pb-10 sm:pb-5   sm:bg-[#F3E6D8]">
 
-        <div class="sm: max-w-md sm:p-3 sm:rounded-lg sm:bg-white sm:py-5 sm:mt-10 sm:px-6">
+        <div class="sm:max-w-lg lg:max-w-2xl sm:p-3 sm:rounded-lg sm:bg-white sm:py-5 sm:mt-10 sm:px-6">
             <img class="sm:rounded-lg" src="/assets/omelette.jpeg" alt="">
             <div class="mx-5 sm:mx-0">
                 <h1 class="mt-10 sm:mt-5 text-3xl font-black font-serif ">Simple Omelette Recipe</h1>
@@ -101,7 +101,7 @@
                             <td
                                 class="border-b border-slate-200 dark:border-slate-600 p-4 pl-8 text-slate-500 dark:text-slate-400">
                                 Fat</td>
-                            <td class="p-4 font-bold text-[#854632]">
+                            <td class="border-b border-slate-200 dark:border-slate-600 p-4 font-bold text-[#854632]">
                                 22g</td>
 
                         </tr>
