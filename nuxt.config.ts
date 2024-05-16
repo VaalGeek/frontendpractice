@@ -8,8 +8,11 @@ export default defineNuxtConfig({
     '@nuxtjs/google-fonts'
   ],
   googleFonts:{
+    display:"swap",
     families: {
-      'Young+Serif': [400],
+      "Young Serif":{
+        wght:[400]
+      },
       'Outfit': [160],
   },
   },
