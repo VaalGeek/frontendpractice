@@ -7,13 +7,15 @@ export default defineNuxtConfig({
     'nuxt-icon',
     '@nuxtjs/google-fonts'
   ],
+  tailwindcss:{
+   
+    configPath: 'tailwind.config',
+  },
   googleFonts:{
     display:"swap",
     families: {
-      "Young Serif":{
-        wght:[400]
-      },
-      'Outfit': [160],
+      "Young Serif":true,
+      Outfit:true
   },
   },
   primevue: {
