@@ -10,7 +10,7 @@
             <h3 class="text-white font-light mt-5 text-center mb-6">"{{ data.position }}."</h3>
             <div class="flex flex-col space-y-4  justify-center">
                 <a v-for="social in data.socialLinks" :href='social.link' target="_blank" 
-                    class="text-white focus:bg-[#C5F82A] focus:text-black active:bg-[#C5F82A] hover:delay-100 hover:bg-[#C5F82A] hover:text-black text-center py-3 cursor-pointer   rounded-lg bg-[#333333] w-[304px] h-[45px]">{{
+                    class="text-white focus:bg-[#C5F82A] focus:text-black active:bg-[#C5F82A] hover:delay-100 hover:bg-[#C5F82A] hover:text-black text-center py-3 cursor-pointer   rounded-lg bg-[#333333] sm:w-[304px] w-[250px] h-[45px]">{{
                     social.name }}
                 </a>
             </div>
