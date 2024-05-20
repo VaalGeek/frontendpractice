@@ -10,9 +10,9 @@
                     Love
                 </h1>
                 <p class="text-white sm:text-center sm:mx-10    font-thin text-center text-wrap px-9 lg:px-2 lg:text-left sm:mt-2 lg:mt-4  mt-4">Huddle re-imagines the way we build
-                    communities. You have a voice, <br class="hidden lg:block"> but so does your audience.
+                    communities. You have<br class="hidden lg:block"> a voice, but so does your audience.
                     Create
-                    connections with your users as you engage in  genuine discussion.</p>
+                    connections with <br class="hidden lg:block">your users as you engage in  genuine discussion.</p>
                 <div class="flex justify-center sm:mx-10 lg:justify-start">
                     <button
                         class="bg-white hover:bg-[#E882E8] delay-75 hover:text-white lg:py-3  lg:text-sm  text-xs py-2 rounded-full text-center text-[#6A4DB2] px-16 mt-5 shadow-lg">Register</button>
