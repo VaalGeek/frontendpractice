@@ -1,7 +1,7 @@
 <template>
     <nav class="lg:flex  lg:justify-between ">
         <div class="lg:flex">
-            <img src="/assets/snap/logo.svg"/> 
+            <img src="/assets/snap/logo.svg" alt="logo"/> 
             <Menu class="lg:ml-5 hidden md:hidden"/>
         </div>
         <div class="lg:flex">

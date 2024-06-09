@@ -17,8 +17,8 @@
             <Sponsors class=" lg:pt-20 lg:py-0 py-14 mx-3 lg:mx-0 lg:justify-start md:hidden lg:flex"/>
         </div>
         <div class="z-10">
-            <img class="hidden md:flex lg:flex lg:pl-10 md:pl-5    lg:py-10 md:py-14 lg:w-[520px] object-cover" src="/assets/snap/image-hero-desktop.png" alt="">
-            <img class="md:hidden mt-7 lg:hidden object-cover" src="/assets/snap/image-hero-mobile.png" alt="">
+            <img class="hidden md:flex lg:flex lg:pl-10 md:pl-5    lg:py-10 md:py-14 lg:w-[520px] object-cover"  src="/assets/snap/image-hero-desktop.png" alt="hero">
+            <img class="md:hidden mt-7 lg:hidden object-cover" src="/assets/snap/image-hero-mobile.png" alt="hero">
         </div>
     </div>
 </template>
