@@ -5,6 +5,7 @@ export enum Status {
 }
 
 export interface INotification {
+    id:string,
     action: string,
     post?: string,
     group?: string,
