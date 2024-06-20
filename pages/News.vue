@@ -2,7 +2,7 @@
     <div
         class="min-h-screen overscroll-contain    lg:flex lg:justify-center  lg:mx-[300px]  md:flex  lg:flex-col  md:flex-col  md:justify-center md:mx-[20px] mx-[20px] pb-5 ">
 
-        <NavBar @sideNavToggled="openSideBar = !openSideBar" class="flex mt-10 " />
+        <NavBar @sideNavToggled="openSideBar = !openSideBar" class="flex bg-white py-5 mt-10 sticky top-0 " />
         <SideNav
             :class="`${openSideBar ? 'translate-x-0 ' : 'translate-x-[750px]'}    md:flex  lg:hidden right-0 top-0  fixed transition-all duration-500`" />
         <BgOverlay
